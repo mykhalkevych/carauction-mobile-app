@@ -1,0 +1,7 @@
+{
+  "name": "carauction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
