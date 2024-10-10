@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'io.carauction',
   appName: 'carauction',
-  webDir: 'dist'
+  webDir: 'dist',
 };
 
 export default config;
